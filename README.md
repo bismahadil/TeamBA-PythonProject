@@ -1,2 +1,2 @@
-Calculator-Bismah Adil
-No guessing game- Amna mirza
+Calculator-Bismah Adil <br>
+Number guessing game- Amna mirza
