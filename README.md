@@ -1,2 +1,2 @@
-Calculator- Bismah Adil
+Calculator- Bismah Adil <br>
 Guessing game - Amna Mirza
